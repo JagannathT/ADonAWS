@@ -1,4 +1,3 @@
-/*
 resource "aws_vpc" "us-west-2" {
   cidr_block = "10.0.0.0/16"
   enable_dns_hostnames = true
@@ -6,4 +5,5 @@ resource "aws_vpc" "us-west-2" {
   tags {
     Name = "us-west-2"
   }
-}*/
+}
+
