@@ -1,2 +1,0 @@
-# ADonAWS
-ActiveDirectory on AWS
